@@ -25,7 +25,7 @@ Game Shop is a modern e-commerce application that allows users to browse a catal
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/game-shop.git
+git clone https://github.com/JScoder95/ApplyDigitalFrontEndTest
 
 # Install dependencies
 npm install
